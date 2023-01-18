@@ -25,10 +25,15 @@ Legend:
 * `*` means last day to add a class (without instructor approval), `**` is last day to drop a class (without a W), `***` is last day to withdraw from a class (student receives a W)  
 * `†` means lab class, `††` means guest lecture
 
-### Detailed content:
-Here's what we plan to do in Spring 2023.  
+### Detailed content of class, Spring 2023:
+1. Snow day, class canceled
 
-**2.** Intro to software tools
-**5.** Guest lecture: Tzu-Chi (statistical community detection)
-**16.** Guest lecture: Tyler Scott (Google Brain, stochastic embeddings)  
-**33.** Guest lecture: Teo and Rileigh, advanced topics in inference  
+### Coming up:
+2. Introductions and syllabus review
+3. Lecture
+4. Lecture
+5. Intro to software tools
+
+<!-- **5.** Guest lecture: Tzu-Chi (statistical community detection) -->
+<!-- **16.** Guest lecture: Tyler Scott (Google Brain, stochastic embeddings) -->
+<!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->

@@ -3,9 +3,9 @@
 | |Mon|Wed|Fri|
 |-|-|-|-|
 |Week 0: Jan 16-20 | No class | 1 | 2† |
-|Week 1: Jan 23-27 (Probability) | 3 | 4* | 5†† |
+|Week 1: Jan 23-27 (Probability) | 3 | 4* | 5† |
 |Week 2: Jan 30-Feb 3 (Probability) | 6  | 7**  | 8† (HW1 given) |
-|Week 3: Feb 6-10 (Bayesian Statistics)  | 9  | 10  | 11†  |
+|Week 3: Feb 6-10 (Bayesian Statistics)  | 9  | 10  | 11††  |
 |Week 4: Feb 13-17 (Bayesian Statistics)  | 11  | 12  | 13† (HW2 given, HW1 due)|
 |Week 5: Feb 20-24 (Graphical Models)  | 14  | 15  | 16††  |
 |Week 6: Feb 27-Mar 3 (Graphical Models) | 17  | 18  |  19† (HW3 given, HW2 due) |
@@ -34,6 +34,7 @@ Legend:
 4. Lecture
 5. Intro to software tools
 
-<!-- **5.** Guest lecture: Tzu-Chi (statistical community detection) -->
+
+<!-- **11.** Guest lecture: Tzu-Chi (statistical community detection) -->
 <!-- **16.** Guest lecture: Tyler Scott (Google Brain, stochastic embeddings) -->
 <!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->

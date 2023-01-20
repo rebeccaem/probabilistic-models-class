@@ -2,7 +2,7 @@
 
 | |Mon|Wed|Fri|
 |-|-|-|-|
-|Week 0: Jan 16-20 | No class | 1 | 2† |
+|Week 0: Jan 16-20 | No class | 1 (Snow day) | 2 (Introductions) |
 |Week 1: Jan 23-27 (Probability) | 3 | 4* | 5† |
 |Week 2: Jan 30-Feb 3 (Probability) | 6  | 7**  | 8† (HW1 given) |
 |Week 3: Feb 6-10 (Bayesian Statistics)  | 9  | 10  | 11††  |
@@ -27,9 +27,12 @@ Legend:
 
 ### Detailed content of class, Spring 2023:
 1. Snow day, class canceled
+2. Introductions
+    - syllabus review
+    - join slack
+    - in-class activity (ICA): meet two people and tell me about them, due in a week
 
 ### Coming up:
-2. Introductions and syllabus review
 3. Lecture
 4. Lecture
 5. Intro to software tools

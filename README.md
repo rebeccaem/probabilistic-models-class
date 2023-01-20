@@ -16,7 +16,7 @@ RM: Wed 9:00 – 10:00a ECOT 820, and by appointment
 
 ### Materials
  * Lecture notes (R. Morrison)  
- * _Probabilistic Machine Learning: Advanced Topics_ by Kevin Murphy (available [online](https://probml.github.io/pml-book/book2.html))
+ * _Probabilistic Machine Learning: Advanced Topics_ by Kevin Murphy (available [online](https://probml.github.io/pml-book/book2.html); latest version [here](https://github.com/probml/pml2-book/releases))
  * _Bayesian Reasoning and Machine Learning_ by David Barber (available [online](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf))
  * Various papers and book chapters (will be available on Canvas/Github/Slack)
 

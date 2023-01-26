@@ -16,7 +16,7 @@
 |Week 11: Apr 3-7 (Information Theory)  | 28  | 29  | 30† (HW5 given, HW4 due) |
 |Week 12: Apr 10-14 (Information Theory)  | 31  |  32 | 33††  |
 |Week 13: Apr 17-21 (Prediction)  | 34  |  35 | 36† (short HW6 given, HW5 due) |
-|Week 14: Apr 24-28 (Advanced Graphical Models) |  37 | 38  | 39†  |
+|Week 14: Apr 24-28 (Advanced Graphical Models) |  37 | 38  | 39††  |
 |Week 15: May 1-3 (TBD) | 40  | 41 (short HW6 due)  |  No class  |
 |Week 16: Project presentations during final slot | -  | -  |  -  |
 
@@ -40,4 +40,7 @@ Legend:
 
 <!-- **11.** Guest lecture: Tzu-Chi (statistical community detection) -->
 <!-- **16.** Guest lecture: Tyler Scott (Google Brain, stochastic embeddings) -->
+<!-- **22.** Paper discussion -->
 <!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->
+<!-- **39.** Guest lecture: Nuttida Rungratsameetaweemana (recurrent neural network / how the brain processes information) -->
+

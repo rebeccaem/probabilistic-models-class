@@ -31,11 +31,19 @@ Legend:
     - syllabus review
     - join slack
     - in-class activity (ICA): meet two people and tell me about them, due in a week
+3. Lecture: discrete probability intro
+    - probability tables, conditioning (example 1.1.2 Barber)
+    - how much information to define probability distribution with d variables, each with k_i states?
+4. Lecture:
+   - definitions
+   - independence and conditional independence
+   - motivation for probabilistic graphical models
+
 
 ### Coming up:
-3. Lecture
-4. Lecture
 5. Intro to software tools
+6. Lecture
+7. Lecture
 
 
 <!-- **11.** Guest lecture: Tzu-Chi (statistical community detection) -->

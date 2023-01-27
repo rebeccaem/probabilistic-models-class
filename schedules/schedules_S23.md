@@ -38,12 +38,15 @@ Legend:
    - definitions
    - independence and conditional independence
    - motivation for probabilistic graphical models
+5. Intro to software tools
+   - finish counter-examples from class 4
+   - Bernoulli and Binomial distributions
 
 
 ### Coming up:
-5. Intro to software tools
 6. Lecture
 7. Lecture
+8. Lab class (start homework 1 together)
 
 
 <!-- **11.** Guest lecture: Tzu-Chi (statistical community detection) -->

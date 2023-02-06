@@ -49,7 +49,7 @@ Legend:
 8. Lab class
    - MVN
    - start homework 1 together
-9. Naive Bayes classifier
+9. Lecture: Naive Bayes classifier
    - ICA (check Canvas! due in 2 days)
 
 ### Coming up:

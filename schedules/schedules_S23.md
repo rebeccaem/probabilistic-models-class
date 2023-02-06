@@ -53,6 +53,7 @@ Legend:
    - ICA (check Canvas! due in 2 days)
 
 ### Coming up:
+10. Lecture
 11. Research talk: Tzu-Chi (Statistical community detection)
 12. Lecture
 13. Lecture

@@ -51,16 +51,22 @@ Legend:
    - start homework 1 together
 9. Lecture: Naive Bayes classifier
    - ICA (check Canvas! due in 2 days)
+10. Lecture: Learning distributions
+   - options: full Bayesian posterior, ML, MAP, moment matching
+   - flipping a coin
+11. Research talk: Tzu-Chi (Statistical community detection)
+12. Lecture: MVN (helpful facts)
+13. Lecture: regression, Bayes linear models
+14. Lecture: Bayes linear models
+    - Equivalence between Gaussian (Laplace) priors and L2 (L1) regression
+15. Lab class + lecture
+    - Bayesian and deterministic regression
+    - basic graph concepts (definitions)
 
 ### Coming up:
-10. Lecture
-11. Research talk: Tzu-Chi (Statistical community detection)
-12. Lecture
-13. Lecture
+16. Lecture
+17. Guest lecture: Tyler Scott (Google Brain, stochastic embeddings)
 
-
-<!-- **11.** Guest lecture: Tzu-Chi (statistical community detection) -->
-<!-- **16.** Guest lecture: Tyler Scott (Google Brain, stochastic embeddings) -->
 <!-- **22.** Paper discussion -->
 <!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->
 <!-- **39.** Guest lecture: Nuttida Rungratsameetaweemana (recurrent neural network / how the brain processes information) -->

@@ -62,10 +62,14 @@ Legend:
 15. Lab class + lecture
     - Bayesian and deterministic regression
     - basic graph concepts (definitions)
-
-### Coming up:
 16. Lecture
 17. Guest lecture: Tyler Scott (Google Brain, stochastic embeddings)
+18. Lecture: Colliders, statements of C.I., d-separation
+19. Class canceled (RM has a cold)
+20. Lecture: Markov equivalence
+ 
+### Coming up:
+21. Lecture
 
 <!-- **22.** Paper discussion -->
 <!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->

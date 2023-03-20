@@ -8,12 +8,12 @@
 |Week 3: Feb 6-10 (Bayesian Statistics)  | 9  | 10  | 11††  |
 |Week 4: Feb 13-17 (Bayesian Statistics)  | 12  | 13  | 14† (HW2 given, HW1 due)|
 |Week 5: Feb 20-24 (Graphical Models)  | 15  | 16  | 17††  |
-|Week 6: Feb 27-Mar 3 (Graphical Models) | 18  | 19  |  20† (HW3 given, HW2 due) |
-|Week 7: Mar 6-10 (Misc Materials Week)  |  21 | 22  | 23†  |
-|Week 8: Mar 13-17 (Inference)  | 24  | 25  | 26† (HW4 given, HW3 due) |
-|Week 9: Mar 20-24 (Inference)  | 27 | 28  | 29†*** (review final project) |
+|Week 6: Feb 27-Mar 3 (Graphical Models) | 18  | 19  |  20† |
+|Week 7: Mar 6-10 (Misc Materials Week)  |  21 | 22  | 23† (HW3 given, HW2 due) |
+|Week 8: Mar 13-17 (Inference)  | 24  | 25  | 26†  |
+|Week 9: Mar 20-24 (Inference)  | 27 | 28  | 29†*** (review final project; short HW4 given, HW3 due) |
 |Week 10: Mar 27-31 (Spring Break) | No class  | No class  | No class  |
-|Week 11: Apr 3-7 (Information Theory)  | 30  | 31  | 32† (HW5 given, HW4 due) |
+|Week 11: Apr 3-7 (Information Theory)  | 30  | 31  | 32† (HW5 given, short HW4 due) |
 |Week 12: Apr 10-14 (Information Theory)  | 33  |  34 | 35††  |
 |Week 13: Apr 17-21 (Prediction)  | 36  |  37 | 38† (short HW6 given, HW5 due) |
 |Week 14: Apr 24-28 (Advanced Graphical Models) |  39 | 40  | 41††  |

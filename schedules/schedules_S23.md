@@ -69,9 +69,8 @@ Legend:
 20. Lecture: Markov equivalence
  
 ### Coming up:
-21. Lecture
-
-**34.** Guest lecture: Teo and Rileigh (advanced topics in inference)
+21. Lecture  
+**34.** Guest lecture: Teo and Rileigh (advanced topics in inference)  
 **41.** Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
 
 

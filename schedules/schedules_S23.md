@@ -82,9 +82,9 @@ Legend:
 31. Lecture:
 32. DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb) 
 33. Lecture:
- 
+
 ### Coming up:
-34. Guest lecture: Teo and Rileigh (advanced topics in inference)  
+34. Guest lecture: Teo and Rileigh (advanced topics in inference)
 41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
 
 

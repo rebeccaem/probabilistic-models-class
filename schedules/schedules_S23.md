@@ -77,10 +77,10 @@ Legend:
 28. Lecture (TCY): 
     - structural learning of a pairwise Markov Random Field using covariance selection
     - the graphical lasso algorithm
-29. DEMO 03: Sparse inverse covariance estimation (see [notebook](../DEMOs/demo_03-sparse_inverse_covariance_estimation.ipynb) 
+29. DEMO 03: Sparse inverse covariance estimation (see [notebook](../DEMOs/demo_03-sparse_inverse_covariance_estimation.ipynb))
 30. Lecture:
 31. Lecture:
-32. DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb) 
+32. DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb))
 33. Lecture:
 
 ### Coming up:

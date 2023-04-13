@@ -67,11 +67,25 @@ Legend:
 18. Lecture: Colliders, statements of C.I., d-separation
 19. Class canceled (RM has a cold)
 20. Lecture: Markov equivalence
+21. Lecture:
+22. Lecture:
+23. Lecture:
+24. Lecture:
+25. Lecture:
+26. Lecture:
+27. Lecture:
+28. Lecture (TCY): 
+    - structural learning of a pairwise Markov Random Field using covariance selection
+    - the graphical lasso algorithm
+29. DEMO 03: Sparse inverse covariance estimation (see [notebook](../DEMOs/demo_03-sparse_inverse_covariance_estimation.ipynb) 
+30. Lecture:
+31. Lecture:
+32. DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb) 
+33. Lecture:
  
 ### Coming up:
-21. Lecture  
-**34.** Guest lecture: Teo and Rileigh (advanced topics in inference)  
-**41.** Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
+34. Guest lecture: Teo and Rileigh (advanced topics in inference)  
+41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
 
 
 <!-- **22.** Paper discussion -->

@@ -13,11 +13,11 @@
 |Week 8: Mar 13-17 (Inference)  | 24  | 25  | 26†  |
 |Week 9: Mar 20-24 (Inference)  | 27 | 28  | 29†*** (review final project; short HW4 given, HW3 due) |
 |Week 10: Mar 27-31 (Spring Break) | No class  | No class  | No class  |
-|Week 11: Apr 3-7 (Information Theory)  | 30  | 31  | 32† (HW5 given, short HW4 due) |
-|Week 12: Apr 10-14 (Information Theory)  | 33  |  34 | 35††  |
-|Week 13: Apr 17-21 (Prediction)  | 36  |  37 | 38† (short HW6 given, HW5 due) |
-|Week 14: Apr 24-28 (Advanced Graphical Models) |  39 | 40  | 41††  |
-|Week 15: May 1-3 (TBD) | 42  | 43 (short HW6 due)  |  No class  |
+|Week 11: Apr 3-7 (Information Theory)  | 30  | 31  | 32† |
+|Week 12: Apr 10-14 (Information Theory)  | 33  |  34 | 35†† (HW5 given, short HW4 due) |
+|Week 13: Apr 17-21 (Prediction)  | 36  |  37 | 38† |
+|Week 14: Apr 24-28 (Advanced Graphical Models) |  39 | 40  | 41†† (HW5 due) |
+|Week 15: May 1-3 (TBD) | 42  | 43 |  No class  |
 |Week 16: Project presentations during final slot | -  | -  |  -  |
 
 
@@ -71,7 +71,9 @@ Legend:
 ### Coming up:
 21. Lecture
 
+**34.** Guest lecture: Teo and Rileigh (advanced topics in inference)
+**41.** Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
+
+
 <!-- **22.** Paper discussion -->
-<!-- **33.** Guest lecture: Teo and Rileigh (advanced topics in inference) -->
-<!-- **39.** Guest lecture: Nuttida Rungratsameetaweemana (recurrent neural network / how the brain processes information) -->
 

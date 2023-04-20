@@ -17,8 +17,8 @@
 |Week 12: Apr 10-14 (Information Theory)  | 33  |  34 | 35†† (HW5 given, short HW4 due) |
 |Week 13: Apr 17-21 (Prediction)  | 36  |  37 | 38† |
 |Week 14: Apr 24-28 (Advanced Graphical Models) |  39 | 40  | 41†† (HW5 due) |
-|Week 15: May 1-3 (TBD) | 42  | 43 |  No class  |
-|Week 16: Project presentations during final slot | -  | -  |  -  |
+|Week 15: May 1-3 (Final Project Presenations) | 42  | 43 |  No class  |
+|Week 16: May 7 (finals slot) Project reports due | -  | -  |  -  |
 
 
 Legend: 

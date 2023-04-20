@@ -10,10 +10,10 @@
 |Week 5: Feb 20-24 (Graphical Models)  | 15  | 16  | 17††  |
 |Week 6: Feb 27-Mar 3 (Graphical Models) | 18  | 19  |  20† |
 |Week 7: Mar 6-10 (Misc Materials Week)  |  21 | 22  | 23† (HW3 given, HW2 due) |
-|Week 8: Mar 13-17 (Inference)  | 24  | 25  | 26†  |
-|Week 9: Mar 20-24 (Inference)  | 27 | 28  | 29†*** (review final project; short HW4 given, HW3 due) |
+|Week 8: Mar 13-17 (Markov Networks)  | 24  | 25  | 26†  |
+|Week 9: Mar 20-24 (Exact Inference)  | 27 | 28  | 29†*** (review final project; short HW4 given, HW3 due) |
 |Week 10: Mar 27-31 (Spring Break) | No class  | No class  | No class  |
-|Week 11: Apr 3-7 (Information Theory)  | 30  | 31  | 32† |
+|Week 11: Apr 3-7 (Approximate Inference)  | 30  | 31  | 32† |
 |Week 12: Apr 10-14 (Information Theory)  | 33  |  34 | 35†† (HW5 given, short HW4 due) |
 |Week 13: Apr 17-21 (Prediction)  | 36  |  37 | 38† |
 |Week 14: Apr 24-28 (Advanced Graphical Models) |  39 | 40  | 41†† (HW5 due) |
@@ -62,30 +62,57 @@ Legend:
 15. Lab class + lecture
     - Bayesian and deterministic regression
     - basic graph concepts (definitions)
-16. Lecture
+16. Lecture: UGs and DGs
+    - Definitions (cliques, trees, loopy, etc)
+    - Graph representations: Adjacency matrix, clique matrix
+    - BNs as DAGs
 17. Guest lecture: Tyler Scott (Google Brain, stochastic embeddings)
 18. Lecture: Colliders, statements of C.I., d-separation
 19. Class canceled (RM has a cold)
 20. Lecture: Markov equivalence
-21. Lecture:
-22. Lecture:
-23. Lecture:
-24. Lecture:
-25. Lecture:
-26. Lecture:
-27. Lecture:
-28. Lecture (TCY): 
+21. Lecture: Determining CI in BNs (and MNs) -- an algorithm
+    - 3-node canonical examples
+    - Intro to MNs factorization and misconception example
+22. Lecture (TCY): 
     - structural learning of a pairwise Markov Random Field using covariance selection
     - the graphical lasso algorithm
-29. DEMO 03: Sparse inverse covariance estimation (see [notebook](../DEMOs/demo_03-sparse_inverse_covariance_estimation.ipynb))
-30. Lecture:
-31. Lecture:
-32. DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb))
-33. Lecture:
+23. DEMO 03: Sparse inverse covariance estimation (see [notebook](../DEMOs/demo_03-sparse_inverse_covariance_estimation.ipynb))
+24. Lecture: Global, local, pairwise Markov properties
+    - Misconception example (simplified, numerical)
+    - Separator sets
+25. Lecture: Misconception example (simplified, numerical (continued))
+26. Lecture:
+    - Renormalizing MNs to compute marginals
+    - BNs -> MNs
+    - Definitions: I-map, D-map, perfect map, minimal I-map
+27. Lecture: Efficient (exact) inference in trees
+28. Lecture: Exact inference:
+    - Message passing
+    - Why are loops hard?
+    - Transition matrices in state space
+29. Lecture: Transition matrices (continued) and Final Project review
+30. Lecture: Approximate inference: Sampling, univariate sampling
+31. Lecture: Sampling: Rejection, Gibbs, Importance
+    - Why sample?
+32. Lecture: MCMC, Metropolis-Hastings AND DEMO 04: Markov chain Monte Carlo (see [notebook](../DEMOs/demo_04-markov_chain_monte_carlo.ipynb))
+33. Lecture: Entropy, relative entropy, mutual information
+    - Why do we express entropy with plog(p)?
+34. Lecture: Relative entropy = KL divergence
+    - Always non-negative
+    - Max ent distributions
+    - Start deterministic approximate inference: Laplace approximation
+35. Guest lecture: Teo and Rileigh (advanced topics in inference: HMC, Kalman inversion)
+36. Lecture: Variational inference and EM algorithm
+37. Lecture: MAP estimate for attractive binary MNs equivalent to min-cut
+
 
 ### Coming up:
-34. Guest lecture: Teo and Rileigh (advanced topics in inference)
+38. DEMO
+39. Rebecca's research using graphical models
+40. Advanced graphical models (Laplacian, etc)
 41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
+42. Final presentations
+43. Final presentations
 
 
 <!-- **22.** Paper discussion -->

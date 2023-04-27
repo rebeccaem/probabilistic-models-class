@@ -109,7 +109,7 @@ Legend:
 40. Rebecca's research using graphical models
 
 ### Coming up:
-41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
+41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks, see [flyer](../misc/Nuttida_R_5822_guest_lecture.pdf))
 42. Final presentations
 43. Final presentations
 

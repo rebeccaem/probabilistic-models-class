@@ -104,12 +104,11 @@ Legend:
 35. Guest lecture: Teo and Rileigh (advanced topics in inference: HMC, Kalman inversion)
 36. Lecture: Variational inference and EM algorithm
 37. Lecture: MAP estimate for attractive binary MNs equivalent to min-cut
-
+38. DEMO 05: Variational inference (see [notebook](../DEMOs/demo_05-variational_inference-teacher.ipynb))
+39. Advanced graphical models (Laplacian, etc)
+40. Rebecca's research using graphical models
 
 ### Coming up:
-38. DEMO
-39. Rebecca's research using graphical models
-40. Advanced graphical models (Laplacian, etc)
 41. Guest lecture: Nuttida Rungratsameetaweemana (Probabilistic learning in humans and recurrent neural networks)
 42. Final presentations
 43. Final presentations
